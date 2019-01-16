@@ -1,0 +1,53 @@
+
+/*
+
+$black: #000;
+$white: #fff;
+$darkred: #6d2121;
+$lightred: #a52727;
+$blue: #36ABF0;
+
+$max-w-mobilesmall: 440px;
+$max-w-mobile: 624px;
+$min-w-tablet: 625px;
+$min-w-tablet-desktop: 855px;
+$min-w-desktop: 880px;
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand|Satisfy');
+
+*{
+	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Quicksand', sans-serif;
+}
+
+ul, li{
+	list-style: none;
+}
+
+img{
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+h1, .h1{
+	font-family: 'Satisfy', cursive;
+	font-size: 2em;
+}
+
+h2, .h2{
+	font-size: 2em;
+}
+
+p{
+	font-size: 1.3em;
+	margin-bottom: 5px;
+}

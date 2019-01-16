@@ -1,0 +1,680 @@
+{
+	"burgers": [
+		{
+			"name" : "American Hamburger",
+			"description" : "Our original hamburger",
+			"prices" : {
+				"" : "£3.35",
+				"8oz" : "£4.35",
+				"12oz" : "£5.55",
+				"16oz" : "£7.05",
+				"24oz" : "£10.05"
+			}
+		},
+		{
+			"name" : "American Cheeseburger",
+			"description" : "Our original hamburger with cheese",
+			"prices" : {
+				"" : "£3.50",
+				"8oz" : "£4.50",
+				"12oz" : "£5.95",
+				"16oz" : "£7.45",
+				"24oz" : "£10.45"
+			}
+		},
+		{
+			"name" : "The Mexican",
+			"description" : "Our burger topped with hot sauce and jalapeno peppers",
+			"prices" : {
+				"" : "£3.55",
+				"8oz" : "£4.55",
+				"12oz" : "£6.00",
+				"16oz" : "£7.50",
+				"24oz" : "£10.50"
+			}
+		},
+		{
+			"name" : "The Texan",
+			"description" : "Our burger served with smokey BBQ sauce and sliced cheese",
+			"prices" : {
+				"" : "£3.65",
+				"8oz" : "£4.65",
+				"12oz" : "£6.05",
+				"16oz" : "£7.55",
+				"24oz" : "£10.55"
+			}
+		},
+		{
+			"name" : "The New Jersey",
+			"description" : "Our burger served with spicey meatballs and sliced cheese",
+			"prices" : {
+				"" : "£3.75",
+				"8oz" : "£4.75",
+				"12oz" : "£6.15",
+				"16oz" : "£7.65",
+				"24oz" : "£10.65"
+			}
+		},
+		{
+			"name" : "The New Yorker",
+			"description" : "Our burger topped with smokey bacon, onion rings and sliced cheese",
+			"prices" : {
+				"" : "£3.95",
+				"8oz" : "£4.95",
+				"12oz" : "£6.35",
+				"16oz" : "£7.85",
+				"24oz" : "£10.85"
+			}
+		},
+		{
+			"name" : "The Texan",
+			"description" : "Our burger topped with pulled pork, served with BBQ sauce",
+			"prices" : {
+				"" : "£3.95",
+				"8oz" : "£4.95",
+				"12oz" : "£6.35",
+				"16oz" : "£7.85",
+				"24oz" : "£10.85"
+			}
+		},
+		{
+			"name" : "The Hawaiian",
+			"description" : "Our burger topped with pineapple and sliced cheese",
+			"prices" : {
+				"" : "£4.20",
+				"8oz" : "£5.20",
+				"12oz" : "£6.60",
+				"16oz" : "£8.10",
+				"24oz" : "£11.10"
+			}
+		}
+	],
+	"pizzas": [
+		{
+			"name" : "Margherita",
+			"description" : "Cheese & Tomato",
+			"prices" : {
+				"small" : "£4.50",
+				"medium" : "£6.50",
+				"large" : "£10.00",
+				"super" : "£12.00",
+				"mega" : "£14.00",
+				"gigantic" : "£17.00"
+			}
+		},
+		{
+			"name" : "Hawaiian",
+			"description" : "Ham & Pineapple",
+			"prices" : {
+				"small" : "£5.50",
+				"medium" : "£7.80",
+				"large" : "£11.00",
+				"super" : "£14.00",
+				"mega" : "£16.00",
+				"gigantic" : "£19.00"
+			}
+		},
+		{
+			"name" : "Colorado",
+			"description" : "Chicken & Sweetcorn",
+			"prices" : {
+				"small" : "£5.50",
+				"medium" : "£7.80",
+				"large" : "£11.00",
+				"super" : "£14.00",
+				"mega" : "£16.00",
+				"gigantic" : "£19.00"
+			}
+		},
+		{
+			"name" : "Arizona Farmhouse",
+			"description" : "Ham & Mushroom",
+			"prices" : {
+				"small" : "£5.50",
+				"medium" : "£7.80",
+				"large" : "£11.00",
+				"super" : "£14.00",
+				"mega" : "£16.00",
+				"gigantic" : "£19.00"
+			}
+		},
+		{
+			"name" : "Texas Tuna",
+			"description" : "Tuna, Onion & Sweetcorn",
+			"prices" : {
+				"small" : "£5.50",
+				"medium" : "£7.80",
+				"large" : "£11.00",
+				"super" : "£14.00",
+				"mega" : "£16.00",
+				"gigantic" : "£19.00"
+			}
+		},
+		{
+			"name" : "Downtown Pepperoni",
+			"description" : "Double pepperoni & Mushrooms",
+			"prices" : {
+				"small" : "£6.00",
+				"medium" : "£8.30",
+				"large" : "£12.50",
+				"super" : "£15.00",
+				"mega" : "£17.00",
+				"gigantic" : "£20.00"
+			}
+		},
+		{
+			"name" : "Americana",
+			"description" : "Ham, Mushrooms, Peppers & Sweetcorn",
+			"prices" : {
+				"small" : "£6.00",
+				"medium" : "£8.30",
+				"large" : "£12.50",
+				"super" : "£15.00",
+				"mega" : "£17.00",
+				"gigantic" : "£20.00"
+			}
+		},
+		{
+			"name" : "Manhattan",
+			"description" : "Ham, Pineapple, sweetcorn & bacon",
+			"prices" : {
+				"small" : "£6.00",
+				"medium" : "£8.30",
+				"large" : "£12.50",
+				"super" : "£15.00",
+				"mega" : "£17.00",
+				"gigantic" : "£20.00"
+			}
+		},
+		{
+			"name" : "Chicago",
+			"description" : "Tandoori Chicken, Pineapple, Han & Pepperoni",
+			"prices" : {
+				"small" : "£6.00",
+				"medium" : "£8.30",
+				"large" : "£12.50",
+				"super" : "£15.00",
+				"mega" : "£17.00",
+				"gigantic" : "£20.00"
+			}
+		},
+		{
+			"name" : "New York Deli",
+			"description" : "Ham, Chicken, Pepperoni & bacon",
+			"prices" : {
+				"small" : "£6.00",
+				"medium" : "£8.30",
+				"large" : "£12.50",
+				"super" : "£15.00",
+				"mega" : "£17.00",
+				"gigantic" : "£20.00"
+			}
+		},
+		{
+			"name" : "Italian",
+			"description" : "Meatballs, Peppers, Red Onions & Pepperoni",
+			"prices" : {
+				"small" : "£6.00",
+				"medium" : "£8.30",
+				"large" : "£12.50",
+				"super" : "£15.00",
+				"mega" : "£17.00",
+				"gigantic" : "£20.00"
+			}
+		},
+		{
+			"name" : "San Francisco",
+			"description" : "Egg, Bacon, Mushrooms, Tomatos & American Sausage",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Boston BBQ",
+			"description" : "BBQ Chicken, Mushrooms, Onions, Peppers & Ham on a BBQ base",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "California Club",
+			"description" : "Ham, Chicken, American Sausage, Peppers & Pineapple",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Vegetarian",
+			"description" : "Mushrooms, Onions, Peppers, Sweetcorn & Pineapple",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Buffalo",
+			"description" : "American Sausage, Spicy Beef, Red Onion, Peppers and Pepperoni",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Meat Treat",
+			"description" : "Ham, Spicy Chicken, Spicy Beef, Chicken, Pepperoni & Salami",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Kentucky",
+			"description" : "BBQ Chicken, Chinese Chicken, Tandoori Chicken, Spicy Chicken",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Mexicana",
+			"description" : "Onions, Peppers, Tandoori Chicken, Spicy Beef, Pepperoni, Hot Sauce (chillies if requested)",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Chinatown",
+			"description" : "Chinese Chicken, Onions, Peppers, Sweetcorn, Mushrooms, Ham & Hot Sauce",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Pacific",
+			"description" : "Prawns, Tuna & Anchovies",
+			"prices" : {
+				"small" : "£6.50",
+				"medium" : "£8.30",
+				"large" : "£13.00",
+				"super" : "£16.00",
+				"mega" : "£18.00",
+				"gigantic" : "£21.00"
+			}
+		},
+		{
+			"name" : "Hurricane",
+			"description" : "Peppers, Red Onions, American Sausage, Spicy Chicken, Hot Sauce, Pepperoni & Fresh chillies",
+			"prices" : {
+				"small" : "£6.80",
+				"medium" : "£8.60",
+				"large" : "£13.50",
+				"super" : "£16.50",
+				"mega" : "£18.50",
+				"gigantic" : "£21.50"
+			}
+		},
+		{
+			"name" : "Florida Fat Boy",
+			"description" : "Chicken, Spicy Beef, Ham, Double Pepperoni, Double Cheese",
+			"prices" : {
+				"small" : "£6.80",
+				"medium" : "£8.60",
+				"large" : "£13.50",
+				"super" : "£16.50",
+				"mega" : "£18.50",
+				"gigantic" : "£21.50"
+			}
+		},
+		{
+			"name" : "Massachusetts",
+			"description" : "Pulled Pork, Chicken, Red Onions, Sweetcorn, Peppers on our BBQ Base",
+			"prices" : {
+				"small" : "£6.80",
+				"medium" : "£8.60",
+				"large" : "£13.50",
+				"super" : "£16.50",
+				"mega" : "£18.50",
+				"gigantic" : "£21.50"
+			}
+		},
+		{
+			"name" : "Philadelphia",
+			"description" : "Ham, Chicken, Meatballs, Bacon & Double Cheese",
+			"prices" : {
+				"small" : "£7.00",
+				"medium" : "£9.00",
+				"large" : "£14.00",
+				"super" : "£17.50",
+				"mega" : "£19.50",
+				"gigantic" : "£22.50"
+			}
+		}
+	],
+	"sides": {
+		"chicken": [
+			{
+				"title" : "6 Chicken Nuggets",
+				"description" : "",
+				"price" : "£2.00"
+			},
+			{
+				"title" : "9 Chicken Nuggets",
+				"description" : "",
+				"price" : "£2.50"
+			},
+			{
+				"title" : "12 Chicken Nuggets",
+				"description" : "",
+				"price" : "£3.00"
+			},
+			{
+				"title" : "Popcorn Chicken",
+				"description" : "",
+				"price" : "£2.00"
+			},
+			{
+				"title" : "SFC Chicken Tenders",
+				"description" : "(with dip)",
+				"price" : "£3.75"
+			},
+			{
+				"title" : "Spicy Chicken Wings",
+				"description" : "1 portion",
+				"price" : "£2.95"
+			},
+			{
+				"title" : "Spicy Chicken Wings",
+				"description" : "2 portions",
+				"price" : "£5.50"
+			},
+			{
+				"title" : "Chicken Combo",
+				"description" : "(Spicy chicken wings, SFC Tenders, Onion rings, garlic mushrooms, potato wedges, garlic french bread & dips)",
+				"price" : "£10.95"
+			}
+		],
+		"garlicBread" : [
+			{
+				"title" : "Garlic French Bread",
+				"description" : "",
+				"price" : "£2.20"
+			},
+			{
+				"title" : "Garlic French Bread with Cheese",
+				"description" : "",
+				"price" : "£2.50"
+			},
+			{
+				"title" : "Garlic French Bread with Cheese & Tomato",
+				"description" : "",
+				"price" : "£3.20"
+			},
+			{
+				"title" : "Garlic Pizza Bread",
+				"description" : "",
+				"price" : "£3.00"
+			},
+			{
+				"title" : "Garlic Pizza Bread with Cheese",
+				"description" : "",
+				"price" : "£3.50"
+			},
+			{
+				"title" : "Garlic Pizza Bread with Cheese & Tomato",
+				"description" : "",
+				"price" : "£3.80"
+			}
+		],
+		"sideOrders": [
+			{
+				"title": "Fries",
+				"description": "add cheese 70p",
+				"price": "£1.60"
+			},
+			{
+				"title": "Large Fries",
+				"description": "add cheese 80p",
+				"price": "£2.25"
+			},
+			{
+				"title": "Curly Fries",
+				"description": "add cheese 70p",
+				"price": "£2.20"
+			},
+			{
+				"title": "Sweet potato Fries",
+				"description": "add cheese 70p",
+				"price": "£2.60"
+			},
+			{
+				"title": "Loaded Fries",
+				"description": "(fries loaded with our cheesey sauce and bacon pieces)",
+				"price": "£1.60"
+			},
+			{
+				"title": "Onion Rings",
+				"description": "",
+				"price": "£2.00"
+			},
+			{
+				"title": "Hash Browns",
+				"description": "",
+				"price": "£2.00"
+			},
+			{
+				"title": "potato Wedges",
+				"description": "with dip",
+				"price": "£2.25"
+			},
+			{
+				"title": "Coleslaw",
+				"description": "",
+				"price": "£1.75"
+			},
+			{
+				"title": "Side Salad",
+				"description": "",
+				"price": "£2.00"
+			},
+			{
+				"title": "Jalapeno & cheese poppers",
+				"description": "2 portions £5.50",
+				"price": "£2.95"
+			},
+			{
+				"title": "Mozzarella sticks",
+				"description": "2 portions £5.50",
+				"price": "£2.95"
+			},
+			{
+				"title": "Garlic mushrooms",
+				"description": "with garlic dip",
+				"price": "£2.75"
+			},
+			{
+				"title": "Jalapeno & red pepper mozz sticks",
+				"description": "2 portions &5.50",
+				"price": "£2.95"
+			},
+			{
+				"title": "Mac and cheese bites",
+				"description": "",
+				"price": "£2.25"
+			}
+		],
+		"desserts": [
+			{
+				"title" : "Ben and Jerry's Ice Cream",
+				"description" : "500ml pot, Ask for flavours",
+				"price" : "£4.95"
+			},
+			{
+				"title" : "Chocolate fudge cake",
+				"description" : "",
+				"price" : "£2.05"
+			},
+			{
+				"title" : "Carrot cake",
+				"description" : "",
+				"price" : "£2.05"
+			},
+			{
+				"title" : "Iced ring doughnuts",
+				"description" : "",
+				"price" : "£0.95"
+			}
+		],
+		"drinks": [
+			{
+				"title" : "Coca Cola",
+				"description" : "",
+				"price" : {
+					"can": "£0.90",
+					"500ml": "£1.30",
+					"1.5ltr": "£2.00" 
+				}
+			},
+			{
+				"title" : "Diet Coke",
+				"description" : "",
+				"price" : {
+					"can": "£0.90",
+					"500ml": "£1.30",
+					"1.5ltr": "£2.00" 
+				}
+			},
+			{
+				"title" : "Coca Cola Zero",
+				"description" : "",
+				"price" : {
+					"can": "£0.90",
+					"500ml": "£1.30"
+				}
+			},
+			{
+				"title" : "Cherry Coke",
+				"description" : "",
+				"price" : {
+					"can": "£0.90",
+					"500ml": "£1.30" 
+				}
+			},
+			{
+				"title" : "Fanta Orange",
+				"description" : "",
+				"price" : {
+					"can": "£0.90"
+				}
+			},
+			{
+				"title" : "Lemon Fanta",
+				"description" : "",
+				"price" : {
+					"can": "£0.90"
+				}
+			},
+			{
+				"title" : "Tango",
+				"description" : "",
+				"price" : {
+					"can": "£0.90",
+					"500ml": "£1.30",
+					"1.5ltr": "£2.00" 
+				}
+			},
+			{
+				"title" : "Sprite",
+				"description" : "",
+				"price" : {
+					"can": "£0.90",
+					"500ml": "£1.30" 
+				}
+			},
+			{
+				"title" : "7up",
+				"description" : "",
+				"price" : {
+					"can": "£0.90",
+					"1.5ltr": "£2.00" 
+				}
+			},
+			{
+				"title" : "Dr Pepper",
+				"description" : "",
+				"price" : {
+					"can": "£0.90",
+					"500ml": "£1.30"
+				}
+			},
+			{
+				"title" : "American Cream Soda",
+				"description" : "",
+				"price" : {
+					"can": "£0.90" 
+				}
+			},
+			{
+				"title" : "Dandelion & Burdock",
+				"description" : "",
+				"price" : {
+					"can": "£0.90"
+				}
+			},
+			{
+				"title" : "Vimto",
+				"description" : "",
+				"price" : {
+					"can": "£0.90"
+				}
+			},
+			{
+				"title" : "Cloudy Lemonade",
+				"description" : "",
+				"price" : {
+					"can": "£0.90"
+				}
+			}
+		]
+	}
+}
